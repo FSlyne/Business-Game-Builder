@@ -1,4 +1,4 @@
-Business-Game-Builder
+Production Company Game
 =====================
 You are a manufacturing company, that takes in raw widgets (as units) from 2 suppliers and transforms it into finished widgets using a production process. The business goes through a number  of fixed cycles, 1,2,3, ... N
 
